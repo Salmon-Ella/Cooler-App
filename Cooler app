@@ -1,0 +1,8 @@
+# 1. Stage all new/modified files
+git add .
+
+# 2. Commit the changes locally
+git commit -m "Final App Blueprint: UI, Logic, and Cloud Build Ready"
+
+# 3. Send the changes to your GitHub repository (triggers compilation)
+git push
